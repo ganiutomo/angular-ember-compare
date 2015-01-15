@@ -1,4 +1,0 @@
-README.md
-mvc/models.md
-mvc/models-angularjs.md
-mvc/models-emberjs.md
