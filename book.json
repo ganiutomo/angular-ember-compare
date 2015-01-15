@@ -1,0 +1,44 @@
+{
+    "plugins": ["-mixpanel", "share", "disqus", "ga"],
+
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 1
+        },
+        "disqus": {
+            "shortName": "bguiz"
+        },
+        "ga": {
+            "token": "UA-37884921-4",
+            "scroll": {
+                "debug": false,
+                "interval": 150
+            }
+        },
+        "share": {
+            "reddit": {
+                "newwindow": 1,
+                "url": "http://angularjs-emberjs-compare.bguiz.com/"
+            },
+            "googleplus": {
+                "url": "http://angularjs-emberjs-compare.bguiz.com/"
+            },
+            "facebook": {
+                "url": "http://angularjs-emberjs-compare.bguiz.com/"
+            },
+            "linkedin": {
+                "url": "http://angularjs-emberjs-compare.bguiz.com/"
+            },
+            "twitter": {
+                "url": "http://angularjs-emberjs-compare.bguiz.com/",
+                "via": "bguiz"
+            }
+        }
+    },
+    "links": {
+        "sharing": {
+        }
+    }
+}
