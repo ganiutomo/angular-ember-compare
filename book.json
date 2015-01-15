@@ -1,6 +1,5 @@
 {
-    "plugins": [],
-
+    "plugins": ["-mixpanel", "share", "disqus", "ga", "calibre"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "sepia",
