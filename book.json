@@ -3,8 +3,7 @@
         "-mixpanel",
         "share",
         "disqus",
-        "ga",
-        "calibre"
+        "ga"
     ],
     "pluginsConfig": {},
     "links": {
