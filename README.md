@@ -81,3 +81,4 @@ Hi, I'm Brendan Graetz. You can find me on [Twitter](https://twitter.com/bguiz "
 
 I also blog at [blog.bguiz.com](http://blog.bguiz.com),
 where you can check out my other writing.
+
